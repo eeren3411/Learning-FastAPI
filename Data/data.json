@@ -1,0 +1,1430 @@
+[
+    {
+        "startDate": "29-09-2022 04:28:09",
+        "endDate": "29-09-2022 05:21:10",
+        "participants": [
+            "Keqing",
+            "Eeren"
+        ],
+        "isOnline": false,
+        "organizer": "Keqing"
+    },
+    {
+        "startDate": "09-09-2022 00:52:27",
+        "endDate": "09-09-2022 01:07:51",
+        "participants": [
+            "Mona",
+            "Bennett",
+            "Ayaka",
+            "Hu Tao",
+            "Venti",
+            "Xingqiu",
+            "Zhongli",
+            "Eeren",
+            "Instructor Albedo",
+            "Yelan"
+        ],
+        "isOnline": true,
+        "organizer": "Venti"
+    },
+    {
+        "startDate": "22-09-2022 13:42:22",
+        "endDate": "22-09-2022 14:13:19",
+        "participants": [
+            "Hu Tao",
+            "Venti",
+            "Bennett",
+            "Zhongli",
+            "Keqing",
+            "Instructor Albedo",
+            "Ayaka",
+            "Yelan",
+            "Shenhe",
+            "Xingqiu",
+            "Eeren"
+        ],
+        "isOnline": true,
+        "organizer": "Instructor Albedo"
+    },
+    {
+        "startDate": "07-09-2022 09:24:51",
+        "endDate": "07-09-2022 09:38:22",
+        "participants": [
+            "Eeren",
+            "Xingqiu",
+            "Yelan"
+        ],
+        "isOnline": false,
+        "organizer": "Yelan"
+    },
+    {
+        "startDate": "22-09-2022 07:51:04",
+        "endDate": "22-09-2022 08:36:11",
+        "participants": [
+            "Xingqiu",
+            "Instructor Albedo",
+            "Zhongli",
+            "Bennett",
+            "Xiangling",
+            "Venti",
+            "Eeren",
+            "Shenhe",
+            "Hu Tao",
+            "Mona",
+            "Ayaka"
+        ],
+        "isOnline": false,
+        "organizer": "Xiangling"
+    },
+    {
+        "startDate": "13-09-2022 06:25:20",
+        "endDate": "13-09-2022 07:13:43",
+        "participants": [
+            "Instructor Albedo"
+        ],
+        "isOnline": false,
+        "organizer": "Instructor Albedo"
+    },
+    {
+        "startDate": "12-09-2022 10:32:20",
+        "endDate": "12-09-2022 10:38:44",
+        "participants": [
+            "Ayaka",
+            "Yelan"
+        ],
+        "isOnline": true,
+        "organizer": "Yelan"
+    },
+    {
+        "startDate": "29-09-2022 22:11:43",
+        "endDate": "29-09-2022 22:17:13",
+        "participants": [
+            "Mona",
+            "Keqing",
+            "Instructor Albedo",
+            "Hu Tao"
+        ],
+        "isOnline": false,
+        "organizer": "Instructor Albedo"
+    },
+    {
+        "startDate": "13-09-2022 12:10:10",
+        "endDate": "13-09-2022 12:39:04",
+        "participants": [
+            "Hu Tao",
+            "Zhongli",
+            "Shenhe",
+            "Yelan",
+            "Bennett",
+            "Eeren",
+            "Mona",
+            "Xingqiu",
+            "Instructor Albedo",
+            "Venti",
+            "Keqing",
+            "Xiangling"
+        ],
+        "isOnline": true,
+        "organizer": "Yelan"
+    },
+    {
+        "startDate": "16-09-2022 00:28:11",
+        "endDate": "16-09-2022 00:40:24",
+        "participants": [
+            "Hu Tao"
+        ],
+        "isOnline": true,
+        "organizer": "Hu Tao"
+    },
+    {
+        "startDate": "11-09-2022 02:27:56",
+        "endDate": "11-09-2022 02:35:23",
+        "participants": [
+            "Xiangling",
+            "Venti",
+            "Shenhe",
+            "Zhongli",
+            "Xingqiu"
+        ],
+        "isOnline": true,
+        "organizer": "Xingqiu"
+    },
+    {
+        "startDate": "30-09-2022 10:40:03",
+        "endDate": "30-09-2022 11:14:25",
+        "participants": [
+            "Bennett",
+            "Venti"
+        ],
+        "isOnline": true,
+        "organizer": "Venti"
+    },
+    {
+        "startDate": "29-09-2022 16:17:20",
+        "endDate": "29-09-2022 16:41:44",
+        "participants": [
+            "Hu Tao",
+            "Instructor Albedo",
+            "Keqing",
+            "Zhongli",
+            "Xingqiu"
+        ],
+        "isOnline": false,
+        "organizer": "Instructor Albedo"
+    },
+    {
+        "startDate": "09-09-2022 23:39:07",
+        "endDate": "10-09-2022 00:28:51",
+        "participants": [
+            "Eeren",
+            "Xingqiu",
+            "Yelan",
+            "Venti",
+            "Ayaka",
+            "Bennett",
+            "Instructor Albedo",
+            "Keqing"
+        ],
+        "isOnline": true,
+        "organizer": "Ayaka"
+    },
+    {
+        "startDate": "23-09-2022 04:57:48",
+        "endDate": "23-09-2022 05:25:45",
+        "participants": [
+            "Venti"
+        ],
+        "isOnline": true,
+        "organizer": "Venti"
+    },
+    {
+        "startDate": "30-09-2022 12:51:15",
+        "endDate": "30-09-2022 13:07:46",
+        "participants": [
+            "Venti",
+            "Zhongli",
+            "Hu Tao",
+            "Keqing",
+            "Xiangling",
+            "Shenhe",
+            "Eeren"
+        ],
+        "isOnline": false,
+        "organizer": "Zhongli"
+    },
+    {
+        "startDate": "26-09-2022 09:28:05",
+        "endDate": "26-09-2022 10:20:21",
+        "participants": [
+            "Yelan",
+            "Keqing",
+            "Shenhe",
+            "Ayaka",
+            "Mona",
+            "Xiangling"
+        ],
+        "isOnline": false,
+        "organizer": "Keqing"
+    },
+    {
+        "startDate": "09-09-2022 06:00:10",
+        "endDate": "09-09-2022 06:40:47",
+        "participants": [
+            "Zhongli",
+            "Yelan",
+            "Keqing",
+            "Hu Tao",
+            "Ayaka",
+            "Xiangling",
+            "Xingqiu",
+            "Venti"
+        ],
+        "isOnline": false,
+        "organizer": "Zhongli"
+    },
+    {
+        "startDate": "05-09-2022 07:28:39",
+        "endDate": "05-09-2022 08:14:02",
+        "participants": [
+            "Ayaka",
+            "Mona",
+            "Keqing",
+            "Xingqiu",
+            "Shenhe"
+        ],
+        "isOnline": true,
+        "organizer": "Shenhe"
+    },
+    {
+        "startDate": "10-09-2022 21:30:36",
+        "endDate": "10-09-2022 22:08:43",
+        "participants": [
+            "Xiangling",
+            "Ayaka",
+            "Mona",
+            "Shenhe",
+            "Keqing",
+            "Bennett",
+            "Instructor Albedo",
+            "Hu Tao",
+            "Zhongli",
+            "Venti"
+        ],
+        "isOnline": true,
+        "organizer": "Ayaka"
+    },
+    {
+        "startDate": "28-09-2022 10:17:57",
+        "endDate": "28-09-2022 10:40:56",
+        "participants": [
+            "Mona",
+            "Zhongli",
+            "Keqing",
+            "Venti",
+            "Instructor Albedo",
+            "Eeren",
+            "Xiangling",
+            "Shenhe",
+            "Ayaka",
+            "Yelan"
+        ],
+        "isOnline": false,
+        "organizer": "Keqing"
+    },
+    {
+        "startDate": "30-09-2022 07:41:09",
+        "endDate": "30-09-2022 08:16:29",
+        "participants": [
+            "Instructor Albedo",
+            "Bennett",
+            "Hu Tao",
+            "Keqing",
+            "Xingqiu"
+        ],
+        "isOnline": true,
+        "organizer": "Xingqiu"
+    },
+    {
+        "startDate": "23-09-2022 11:58:41",
+        "endDate": "23-09-2022 12:21:47",
+        "participants": [
+            "Venti",
+            "Xiangling",
+            "Shenhe",
+            "Yelan"
+        ],
+        "isOnline": true,
+        "organizer": "Venti"
+    },
+    {
+        "startDate": "25-09-2022 16:50:59",
+        "endDate": "25-09-2022 17:45:43",
+        "participants": [
+            "Instructor Albedo",
+            "Xingqiu",
+            "Keqing",
+            "Shenhe",
+            "Yelan",
+            "Hu Tao",
+            "Xiangling",
+            "Bennett",
+            "Eeren",
+            "Mona",
+            "Ayaka",
+            "Zhongli"
+        ],
+        "isOnline": false,
+        "organizer": "Instructor Albedo"
+    },
+    {
+        "startDate": "30-09-2022 00:32:06",
+        "endDate": "30-09-2022 00:49:12",
+        "participants": [
+            "Eeren",
+            "Yelan"
+        ],
+        "isOnline": false,
+        "organizer": "Eeren"
+    },
+    {
+        "startDate": "22-09-2022 00:05:29",
+        "endDate": "22-09-2022 00:23:08",
+        "participants": [
+            "Keqing",
+            "Instructor Albedo",
+            "Mona",
+            "Yelan",
+            "Venti",
+            "Zhongli",
+            "Hu Tao",
+            "Eeren",
+            "Ayaka",
+            "Bennett",
+            "Xiangling"
+        ],
+        "isOnline": false,
+        "organizer": "Hu Tao"
+    },
+    {
+        "startDate": "30-09-2022 23:11:24",
+        "endDate": "30-09-2022 23:44:48",
+        "participants": [
+            "Zhongli",
+            "Instructor Albedo",
+            "Eeren",
+            "Venti",
+            "Mona",
+            "Xingqiu",
+            "Hu Tao",
+            "Yelan",
+            "Bennett"
+        ],
+        "isOnline": true,
+        "organizer": "Hu Tao"
+    },
+    {
+        "startDate": "09-09-2022 14:26:36",
+        "endDate": "09-09-2022 15:12:49",
+        "participants": [
+            "Zhongli",
+            "Ayaka",
+            "Shenhe",
+            "Xingqiu"
+        ],
+        "isOnline": false,
+        "organizer": "Xingqiu"
+    },
+    {
+        "startDate": "15-09-2022 09:12:41",
+        "endDate": "15-09-2022 09:44:30",
+        "participants": [
+            "Xingqiu",
+            "Bennett",
+            "Mona",
+            "Ayaka"
+        ],
+        "isOnline": false,
+        "organizer": "Ayaka"
+    },
+    {
+        "startDate": "18-09-2022 06:41:49",
+        "endDate": "18-09-2022 07:18:47",
+        "participants": [
+            "Xingqiu",
+            "Eeren"
+        ],
+        "isOnline": true,
+        "organizer": "Xingqiu"
+    },
+    {
+        "startDate": "07-09-2022 21:32:51",
+        "endDate": "07-09-2022 22:21:41",
+        "participants": [
+            "Zhongli",
+            "Xingqiu",
+            "Hu Tao",
+            "Bennett",
+            "Xiangling",
+            "Keqing",
+            "Eeren",
+            "Yelan",
+            "Venti",
+            "Shenhe",
+            "Instructor Albedo",
+            "Ayaka"
+        ],
+        "isOnline": false,
+        "organizer": "Xiangling"
+    },
+    {
+        "startDate": "09-09-2022 23:15:13",
+        "endDate": "10-09-2022 00:06:53",
+        "participants": [
+            "Yelan",
+            "Shenhe"
+        ],
+        "isOnline": false,
+        "organizer": "Yelan"
+    },
+    {
+        "startDate": "09-09-2022 18:39:49",
+        "endDate": "09-09-2022 18:49:17",
+        "participants": [
+            "Venti",
+            "Instructor Albedo",
+            "Shenhe",
+            "Xiangling",
+            "Zhongli",
+            "Keqing",
+            "Mona",
+            "Ayaka",
+            "Eeren",
+            "Yelan",
+            "Xingqiu"
+        ],
+        "isOnline": false,
+        "organizer": "Keqing"
+    },
+    {
+        "startDate": "21-09-2022 17:15:34",
+        "endDate": "21-09-2022 17:43:16",
+        "participants": [
+            "Bennett",
+            "Xiangling",
+            "Yelan",
+            "Keqing"
+        ],
+        "isOnline": false,
+        "organizer": "Bennett"
+    },
+    {
+        "startDate": "05-09-2022 15:43:08",
+        "endDate": "05-09-2022 16:13:36",
+        "participants": [
+            "Bennett",
+            "Shenhe",
+            "Eeren",
+            "Yelan",
+            "Mona",
+            "Xiangling",
+            "Keqing",
+            "Xingqiu",
+            "Zhongli"
+        ],
+        "isOnline": true,
+        "organizer": "Xingqiu"
+    },
+    {
+        "startDate": "24-09-2022 13:35:36",
+        "endDate": "24-09-2022 13:42:23",
+        "participants": [
+            "Yelan",
+            "Xiangling",
+            "Shenhe",
+            "Ayaka",
+            "Keqing",
+            "Venti",
+            "Hu Tao",
+            "Bennett",
+            "Mona"
+        ],
+        "isOnline": false,
+        "organizer": "Yelan"
+    },
+    {
+        "startDate": "30-09-2022 05:35:00",
+        "endDate": "30-09-2022 05:51:06",
+        "participants": [
+            "Shenhe",
+            "Instructor Albedo",
+            "Xingqiu",
+            "Keqing",
+            "Mona",
+            "Zhongli"
+        ],
+        "isOnline": false,
+        "organizer": "Shenhe"
+    },
+    {
+        "startDate": "24-09-2022 15:35:24",
+        "endDate": "24-09-2022 16:11:01",
+        "participants": [
+            "Bennett",
+            "Hu Tao",
+            "Venti",
+            "Xingqiu",
+            "Ayaka"
+        ],
+        "isOnline": true,
+        "organizer": "Ayaka"
+    },
+    {
+        "startDate": "02-09-2022 20:49:26",
+        "endDate": "02-09-2022 21:24:37",
+        "participants": [
+            "Mona",
+            "Yelan",
+            "Xingqiu",
+            "Shenhe",
+            "Hu Tao",
+            "Instructor Albedo"
+        ],
+        "isOnline": true,
+        "organizer": "Instructor Albedo"
+    },
+    {
+        "startDate": "21-09-2022 05:06:47",
+        "endDate": "21-09-2022 05:34:12",
+        "participants": [
+            "Yelan",
+            "Eeren",
+            "Xingqiu",
+            "Ayaka",
+            "Instructor Albedo",
+            "Venti"
+        ],
+        "isOnline": true,
+        "organizer": "Venti"
+    },
+    {
+        "startDate": "19-09-2022 15:00:22",
+        "endDate": "19-09-2022 15:17:20",
+        "participants": [
+            "Venti",
+            "Xingqiu",
+            "Eeren",
+            "Ayaka",
+            "Shenhe",
+            "Mona",
+            "Yelan",
+            "Hu Tao",
+            "Instructor Albedo",
+            "Xiangling"
+        ],
+        "isOnline": false,
+        "organizer": "Ayaka"
+    },
+    {
+        "startDate": "07-09-2022 16:58:14",
+        "endDate": "07-09-2022 17:13:11",
+        "participants": [
+            "Keqing",
+            "Bennett",
+            "Shenhe",
+            "Xingqiu",
+            "Mona",
+            "Hu Tao",
+            "Eeren"
+        ],
+        "isOnline": false,
+        "organizer": "Xingqiu"
+    },
+    {
+        "startDate": "18-09-2022 00:33:08",
+        "endDate": "18-09-2022 00:50:19",
+        "participants": [
+            "Zhongli",
+            "Ayaka",
+            "Xiangling",
+            "Bennett",
+            "Xingqiu",
+            "Hu Tao",
+            "Instructor Albedo",
+            "Shenhe",
+            "Mona",
+            "Venti",
+            "Yelan"
+        ],
+        "isOnline": false,
+        "organizer": "Venti"
+    },
+    {
+        "startDate": "01-10-2022 00:35:42",
+        "endDate": "01-10-2022 01:27:11",
+        "participants": [
+            "Keqing",
+            "Xiangling",
+            "Zhongli",
+            "Yelan",
+            "Eeren",
+            "Xingqiu",
+            "Shenhe",
+            "Hu Tao",
+            "Venti",
+            "Mona"
+        ],
+        "isOnline": false,
+        "organizer": "Eeren"
+    },
+    {
+        "startDate": "07-09-2022 14:44:29",
+        "endDate": "07-09-2022 15:02:34",
+        "participants": [
+            "Keqing",
+            "Yelan",
+            "Xiangling",
+            "Shenhe",
+            "Zhongli",
+            "Venti"
+        ],
+        "isOnline": false,
+        "organizer": "Venti"
+    },
+    {
+        "startDate": "13-09-2022 23:42:00",
+        "endDate": "14-09-2022 00:23:58",
+        "participants": [
+            "Xingqiu",
+            "Hu Tao",
+            "Eeren",
+            "Mona"
+        ],
+        "isOnline": true,
+        "organizer": "Xingqiu"
+    },
+    {
+        "startDate": "15-09-2022 16:10:54",
+        "endDate": "15-09-2022 16:50:51",
+        "participants": [
+            "Keqing",
+            "Xingqiu",
+            "Ayaka",
+            "Yelan",
+            "Zhongli",
+            "Mona"
+        ],
+        "isOnline": false,
+        "organizer": "Zhongli"
+    },
+    {
+        "startDate": "07-09-2022 04:34:41",
+        "endDate": "07-09-2022 05:03:52",
+        "participants": [
+            "Xiangling",
+            "Hu Tao",
+            "Shenhe",
+            "Zhongli"
+        ],
+        "isOnline": false,
+        "organizer": "Shenhe"
+    },
+    {
+        "startDate": "22-09-2022 02:15:32",
+        "endDate": "22-09-2022 02:24:56",
+        "participants": [
+            "Shenhe",
+            "Eeren",
+            "Hu Tao",
+            "Zhongli",
+            "Yelan",
+            "Bennett",
+            "Xingqiu",
+            "Instructor Albedo"
+        ],
+        "isOnline": false,
+        "organizer": "Xingqiu"
+    },
+    {
+        "startDate": "28-09-2022 07:33:11",
+        "endDate": "28-09-2022 08:06:40",
+        "participants": [
+            "Eeren",
+            "Ayaka",
+            "Xingqiu"
+        ],
+        "isOnline": true,
+        "organizer": "Ayaka"
+    },
+    {
+        "startDate": "30-09-2022 12:03:48",
+        "endDate": "30-09-2022 12:52:05",
+        "participants": [
+            "Eeren",
+            "Bennett",
+            "Xiangling",
+            "Mona",
+            "Venti",
+            "Xingqiu"
+        ],
+        "isOnline": false,
+        "organizer": "Mona"
+    },
+    {
+        "startDate": "29-09-2022 12:34:15",
+        "endDate": "29-09-2022 12:58:17",
+        "participants": [
+            "Venti",
+            "Yelan",
+            "Xingqiu",
+            "Instructor Albedo",
+            "Hu Tao",
+            "Keqing",
+            "Bennett",
+            "Shenhe"
+        ],
+        "isOnline": false,
+        "organizer": "Yelan"
+    },
+    {
+        "startDate": "16-09-2022 19:58:36",
+        "endDate": "16-09-2022 20:40:51",
+        "participants": [
+            "Shenhe",
+            "Ayaka"
+        ],
+        "isOnline": true,
+        "organizer": "Shenhe"
+    },
+    {
+        "startDate": "05-09-2022 11:26:54",
+        "endDate": "05-09-2022 12:24:32",
+        "participants": [
+            "Bennett",
+            "Instructor Albedo",
+            "Hu Tao",
+            "Venti",
+            "Zhongli",
+            "Ayaka",
+            "Eeren",
+            "Yelan"
+        ],
+        "isOnline": true,
+        "organizer": "Zhongli"
+    },
+    {
+        "startDate": "12-09-2022 19:06:01",
+        "endDate": "12-09-2022 19:24:37",
+        "participants": [
+            "Mona",
+            "Venti",
+            "Eeren"
+        ],
+        "isOnline": true,
+        "organizer": "Eeren"
+    },
+    {
+        "startDate": "17-09-2022 20:16:27",
+        "endDate": "17-09-2022 21:06:58",
+        "participants": [
+            "Xiangling",
+            "Keqing",
+            "Zhongli",
+            "Ayaka",
+            "Xingqiu",
+            "Instructor Albedo",
+            "Eeren",
+            "Bennett",
+            "Hu Tao",
+            "Yelan",
+            "Venti"
+        ],
+        "isOnline": false,
+        "organizer": "Bennett"
+    },
+    {
+        "startDate": "16-09-2022 10:40:35",
+        "endDate": "16-09-2022 11:09:50",
+        "participants": [
+            "Bennett",
+            "Yelan",
+            "Mona",
+            "Venti",
+            "Xiangling"
+        ],
+        "isOnline": true,
+        "organizer": "Xiangling"
+    },
+    {
+        "startDate": "12-09-2022 04:40:01",
+        "endDate": "12-09-2022 05:38:46",
+        "participants": [
+            "Xiangling"
+        ],
+        "isOnline": true,
+        "organizer": "Xiangling"
+    },
+    {
+        "startDate": "07-09-2022 01:26:19",
+        "endDate": "07-09-2022 01:44:17",
+        "participants": [
+            "Xiangling",
+            "Xingqiu",
+            "Yelan",
+            "Zhongli",
+            "Ayaka",
+            "Bennett",
+            "Shenhe",
+            "Mona",
+            "Instructor Albedo"
+        ],
+        "isOnline": true,
+        "organizer": "Xingqiu"
+    },
+    {
+        "startDate": "28-09-2022 22:16:23",
+        "endDate": "28-09-2022 22:31:26",
+        "participants": [
+            "Xingqiu",
+            "Yelan",
+            "Ayaka",
+            "Xiangling",
+            "Venti"
+        ],
+        "isOnline": false,
+        "organizer": "Ayaka"
+    },
+    {
+        "startDate": "15-09-2022 00:24:47",
+        "endDate": "15-09-2022 01:18:50",
+        "participants": [
+            "Eeren",
+            "Keqing",
+            "Instructor Albedo",
+            "Venti",
+            "Bennett",
+            "Xingqiu",
+            "Hu Tao",
+            "Yelan"
+        ],
+        "isOnline": false,
+        "organizer": "Instructor Albedo"
+    },
+    {
+        "startDate": "15-09-2022 21:38:54",
+        "endDate": "15-09-2022 21:57:01",
+        "participants": [
+            "Ayaka"
+        ],
+        "isOnline": false,
+        "organizer": "Ayaka"
+    },
+    {
+        "startDate": "03-09-2022 17:28:09",
+        "endDate": "03-09-2022 17:53:47",
+        "participants": [
+            "Yelan",
+            "Xiangling"
+        ],
+        "isOnline": true,
+        "organizer": "Xiangling"
+    },
+    {
+        "startDate": "21-09-2022 08:22:42",
+        "endDate": "21-09-2022 08:55:18",
+        "participants": [
+            "Mona",
+            "Hu Tao",
+            "Eeren",
+            "Bennett",
+            "Xiangling",
+            "Ayaka"
+        ],
+        "isOnline": true,
+        "organizer": "Ayaka"
+    },
+    {
+        "startDate": "25-09-2022 00:26:00",
+        "endDate": "25-09-2022 00:44:56",
+        "participants": [
+            "Xiangling",
+            "Shenhe",
+            "Yelan",
+            "Zhongli"
+        ],
+        "isOnline": false,
+        "organizer": "Shenhe"
+    },
+    {
+        "startDate": "11-09-2022 04:37:48",
+        "endDate": "11-09-2022 05:24:56",
+        "participants": [
+            "Zhongli",
+            "Mona",
+            "Eeren"
+        ],
+        "isOnline": true,
+        "organizer": "Eeren"
+    },
+    {
+        "startDate": "01-10-2022 19:11:13",
+        "endDate": "01-10-2022 19:54:29",
+        "participants": [
+            "Xingqiu",
+            "Mona",
+            "Xiangling",
+            "Hu Tao",
+            "Keqing",
+            "Bennett",
+            "Venti",
+            "Instructor Albedo",
+            "Shenhe",
+            "Eeren"
+        ],
+        "isOnline": true,
+        "organizer": "Instructor Albedo"
+    },
+    {
+        "startDate": "28-09-2022 08:56:36",
+        "endDate": "28-09-2022 09:49:23",
+        "participants": [
+            "Venti",
+            "Keqing",
+            "Instructor Albedo",
+            "Xiangling",
+            "Bennett",
+            "Hu Tao",
+            "Zhongli",
+            "Ayaka",
+            "Yelan",
+            "Xingqiu",
+            "Eeren"
+        ],
+        "isOnline": false,
+        "organizer": "Bennett"
+    },
+    {
+        "startDate": "10-09-2022 09:24:41",
+        "endDate": "10-09-2022 10:06:57",
+        "participants": [
+            "Hu Tao",
+            "Xingqiu"
+        ],
+        "isOnline": false,
+        "organizer": "Hu Tao"
+    },
+    {
+        "startDate": "01-10-2022 17:03:23",
+        "endDate": "01-10-2022 17:19:19",
+        "participants": [
+            "Instructor Albedo",
+            "Mona",
+            "Bennett",
+            "Shenhe",
+            "Yelan",
+            "Eeren",
+            "Ayaka",
+            "Xingqiu",
+            "Xiangling",
+            "Venti"
+        ],
+        "isOnline": true,
+        "organizer": "Instructor Albedo"
+    },
+    {
+        "startDate": "28-09-2022 22:58:11",
+        "endDate": "28-09-2022 23:49:27",
+        "participants": [
+            "Shenhe",
+            "Keqing",
+            "Mona",
+            "Venti",
+            "Instructor Albedo",
+            "Eeren",
+            "Yelan",
+            "Hu Tao",
+            "Xingqiu",
+            "Ayaka"
+        ],
+        "isOnline": false,
+        "organizer": "Mona"
+    },
+    {
+        "startDate": "29-09-2022 00:00:00",
+        "endDate": "29-09-2022 00:49:24",
+        "participants": [
+            "Yelan"
+        ],
+        "isOnline": true,
+        "organizer": "Yelan"
+    },
+    {
+        "startDate": "04-09-2022 18:59:36",
+        "endDate": "04-09-2022 19:12:10",
+        "participants": [
+            "Xingqiu",
+            "Hu Tao",
+            "Shenhe",
+            "Mona",
+            "Eeren",
+            "Instructor Albedo",
+            "Venti",
+            "Bennett",
+            "Ayaka"
+        ],
+        "isOnline": false,
+        "organizer": "Xingqiu"
+    },
+    {
+        "startDate": "18-09-2022 11:52:23",
+        "endDate": "18-09-2022 12:43:26",
+        "participants": [
+            "Xingqiu",
+            "Hu Tao",
+            "Mona",
+            "Yelan"
+        ],
+        "isOnline": true,
+        "organizer": "Hu Tao"
+    },
+    {
+        "startDate": "09-09-2022 21:07:17",
+        "endDate": "09-09-2022 21:58:58",
+        "participants": [
+            "Xiangling",
+            "Yelan",
+            "Zhongli",
+            "Mona"
+        ],
+        "isOnline": true,
+        "organizer": "Yelan"
+    },
+    {
+        "startDate": "21-09-2022 12:23:38",
+        "endDate": "21-09-2022 12:59:45",
+        "participants": [
+            "Instructor Albedo",
+            "Xiangling",
+            "Shenhe",
+            "Xingqiu",
+            "Mona",
+            "Venti",
+            "Yelan",
+            "Bennett",
+            "Zhongli"
+        ],
+        "isOnline": false,
+        "organizer": "Xingqiu"
+    },
+    {
+        "startDate": "29-09-2022 14:51:29",
+        "endDate": "29-09-2022 15:30:50",
+        "participants": [
+            "Xiangling",
+            "Mona",
+            "Instructor Albedo",
+            "Venti",
+            "Shenhe",
+            "Yelan",
+            "Ayaka",
+            "Xingqiu",
+            "Bennett",
+            "Hu Tao",
+            "Keqing",
+            "Eeren"
+        ],
+        "isOnline": true,
+        "organizer": "Keqing"
+    },
+    {
+        "startDate": "26-09-2022 22:27:32",
+        "endDate": "26-09-2022 22:44:07",
+        "participants": [
+            "Eeren",
+            "Mona",
+            "Venti",
+            "Keqing",
+            "Ayaka",
+            "Yelan"
+        ],
+        "isOnline": true,
+        "organizer": "Ayaka"
+    },
+    {
+        "startDate": "22-09-2022 04:22:25",
+        "endDate": "22-09-2022 05:08:14",
+        "participants": [
+            "Xingqiu",
+            "Zhongli",
+            "Hu Tao",
+            "Eeren",
+            "Ayaka",
+            "Mona",
+            "Keqing",
+            "Venti",
+            "Shenhe"
+        ],
+        "isOnline": true,
+        "organizer": "Mona"
+    },
+    {
+        "startDate": "05-09-2022 00:41:17",
+        "endDate": "05-09-2022 01:05:38",
+        "participants": [
+            "Instructor Albedo",
+            "Xingqiu",
+            "Xiangling",
+            "Keqing",
+            "Hu Tao",
+            "Shenhe"
+        ],
+        "isOnline": true,
+        "organizer": "Xingqiu"
+    },
+    {
+        "startDate": "28-09-2022 04:37:27",
+        "endDate": "28-09-2022 04:49:46",
+        "participants": [
+            "Zhongli",
+            "Instructor Albedo",
+            "Ayaka",
+            "Hu Tao",
+            "Bennett"
+        ],
+        "isOnline": true,
+        "organizer": "Ayaka"
+    },
+    {
+        "startDate": "24-09-2022 07:18:36",
+        "endDate": "24-09-2022 08:01:18",
+        "participants": [
+            "Eeren"
+        ],
+        "isOnline": true,
+        "organizer": "Eeren"
+    },
+    {
+        "startDate": "24-09-2022 10:04:17",
+        "endDate": "24-09-2022 10:42:21",
+        "participants": [
+            "Keqing",
+            "Bennett"
+        ],
+        "isOnline": true,
+        "organizer": "Bennett"
+    },
+    {
+        "startDate": "06-09-2022 01:07:59",
+        "endDate": "06-09-2022 01:33:27",
+        "participants": [
+            "Ayaka"
+        ],
+        "isOnline": false,
+        "organizer": "Ayaka"
+    },
+    {
+        "startDate": "11-09-2022 07:44:26",
+        "endDate": "11-09-2022 08:01:19",
+        "participants": [
+            "Keqing",
+            "Shenhe",
+            "Yelan",
+            "Eeren",
+            "Bennett"
+        ],
+        "isOnline": false,
+        "organizer": "Shenhe"
+    },
+    {
+        "startDate": "18-09-2022 17:14:01",
+        "endDate": "18-09-2022 17:41:55",
+        "participants": [
+            "Bennett",
+            "Mona",
+            "Eeren",
+            "Instructor Albedo",
+            "Hu Tao",
+            "Yelan",
+            "Zhongli",
+            "Ayaka",
+            "Xiangling",
+            "Venti",
+            "Keqing"
+        ],
+        "isOnline": true,
+        "organizer": "Venti"
+    },
+    {
+        "startDate": "07-09-2022 05:06:57",
+        "endDate": "07-09-2022 05:31:52",
+        "participants": [
+            "Eeren",
+            "Xiangling",
+            "Shenhe",
+            "Bennett",
+            "Keqing",
+            "Xingqiu",
+            "Zhongli",
+            "Instructor Albedo",
+            "Mona",
+            "Venti",
+            "Hu Tao"
+        ],
+        "isOnline": false,
+        "organizer": "Xiangling"
+    },
+    {
+        "startDate": "17-09-2022 00:42:05",
+        "endDate": "17-09-2022 01:31:05",
+        "participants": [
+            "Ayaka",
+            "Yelan",
+            "Keqing",
+            "Xiangling",
+            "Venti",
+            "Hu Tao",
+            "Instructor Albedo"
+        ],
+        "isOnline": false,
+        "organizer": "Hu Tao"
+    },
+    {
+        "startDate": "16-09-2022 00:46:22",
+        "endDate": "16-09-2022 01:20:48",
+        "participants": [
+            "Zhongli",
+            "Hu Tao",
+            "Bennett",
+            "Yelan"
+        ],
+        "isOnline": true,
+        "organizer": "Hu Tao"
+    },
+    {
+        "startDate": "11-09-2022 09:33:51",
+        "endDate": "11-09-2022 09:39:59",
+        "participants": [
+            "Eeren",
+            "Mona",
+            "Venti",
+            "Keqing",
+            "Yelan",
+            "Xingqiu"
+        ],
+        "isOnline": false,
+        "organizer": "Xingqiu"
+    },
+    {
+        "startDate": "30-09-2022 07:11:29",
+        "endDate": "30-09-2022 07:20:44",
+        "participants": [
+            "Ayaka",
+            "Shenhe"
+        ],
+        "isOnline": false,
+        "organizer": "Ayaka"
+    },
+    {
+        "startDate": "25-09-2022 10:28:17",
+        "endDate": "25-09-2022 11:11:21",
+        "participants": [
+            "Shenhe"
+        ],
+        "isOnline": false,
+        "organizer": "Shenhe"
+    },
+    {
+        "startDate": "22-09-2022 15:19:35",
+        "endDate": "22-09-2022 16:00:47",
+        "participants": [
+            "Zhongli",
+            "Xiangling",
+            "Instructor Albedo",
+            "Bennett",
+            "Venti",
+            "Xingqiu",
+            "Yelan",
+            "Ayaka",
+            "Mona"
+        ],
+        "isOnline": false,
+        "organizer": "Ayaka"
+    },
+    {
+        "startDate": "17-09-2022 15:20:19",
+        "endDate": "17-09-2022 16:09:49",
+        "participants": [
+            "Ayaka",
+            "Venti",
+            "Shenhe",
+            "Eeren",
+            "Hu Tao",
+            "Instructor Albedo",
+            "Zhongli",
+            "Bennett",
+            "Keqing",
+            "Mona",
+            "Yelan",
+            "Xingqiu"
+        ],
+        "isOnline": false,
+        "organizer": "Xingqiu"
+    },
+    {
+        "startDate": "19-09-2022 13:42:28",
+        "endDate": "19-09-2022 14:19:00",
+        "participants": [
+            "Hu Tao",
+            "Keqing",
+            "Venti",
+            "Xingqiu",
+            "Zhongli",
+            "Bennett",
+            "Xiangling",
+            "Instructor Albedo",
+            "Shenhe",
+            "Ayaka",
+            "Eeren"
+        ],
+        "isOnline": true,
+        "organizer": "Eeren"
+    },
+    {
+        "startDate": "23-09-2022 08:52:58",
+        "endDate": "23-09-2022 09:30:48",
+        "participants": [
+            "Xiangling",
+            "Hu Tao",
+            "Yelan",
+            "Zhongli",
+            "Shenhe",
+            "Ayaka",
+            "Eeren",
+            "Xingqiu",
+            "Keqing",
+            "Mona"
+        ],
+        "isOnline": true,
+        "organizer": "Yelan"
+    },
+    {
+        "startDate": "01-09-2022 14:35:35",
+        "endDate": "01-09-2022 15:33:05",
+        "participants": [
+            "Shenhe",
+            "Keqing",
+            "Venti"
+        ],
+        "isOnline": false,
+        "organizer": "Shenhe"
+    },
+    {
+        "startDate": "29-09-2022 06:33:36",
+        "endDate": "29-09-2022 07:02:33",
+        "participants": [
+            "Hu Tao",
+            "Shenhe",
+            "Bennett",
+            "Keqing",
+            "Xiangling",
+            "Mona",
+            "Eeren"
+        ],
+        "isOnline": true,
+        "organizer": "Eeren"
+    },
+    {
+        "startDate": "03-09-2022 16:37:42",
+        "endDate": "03-09-2022 17:03:45",
+        "participants": [
+            "Ayaka",
+            "Xingqiu",
+            "Zhongli",
+            "Hu Tao",
+            "Eeren",
+            "Bennett",
+            "Venti",
+            "Yelan",
+            "Shenhe",
+            "Keqing",
+            "Mona",
+            "Xiangling"
+        ],
+        "isOnline": false,
+        "organizer": "Venti"
+    },
+    {
+        "startDate": "30-09-2022 10:48:03",
+        "endDate": "30-09-2022 10:54:00",
+        "participants": [
+            "Bennett",
+            "Yelan",
+            "Mona",
+            "Eeren",
+            "Xiangling",
+            "Keqing",
+            "Zhongli"
+        ],
+        "isOnline": true,
+        "organizer": "Xiangling"
+    }
+]
